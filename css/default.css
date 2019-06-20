@@ -1,0 +1,5 @@
+.token.selector,
+.token.property,
+.token.function{
+	color: black;
+}
