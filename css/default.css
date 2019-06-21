@@ -1,5 +1,14 @@
+*{margin: 0; paddding: 0;}
+*{box-sizing: border-box;}
 .token.selector,
 .token.property,
 .token.function{
 	color: black;
+}
+#code{
+	height: 100vh;
+	overflow: hidden;
+}
+#paper > pre{
+	padding-left: 16px;
 }
